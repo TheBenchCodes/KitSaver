@@ -1,0 +1,8 @@
+Messages:
+  KitSaved: '&aKit saved.'
+  KitLoaded: '&aKit loaded.'
+  PermissionMessageForSave: '&cYou do not have permission for saving this kit!'
+  PermissionMessageForLoad: '&cYou do not have permission for loading this kit!'
+SignLines:
+  SaveKit1: '&d&l[SaveKit]'
+  LoadKit1: '&b&l[LoadKit]'
